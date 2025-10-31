@@ -10,11 +10,11 @@ code1 = 7 + 3;
 console.log(code1);
 
 // step 3
-let code2 = 100 / 2 - 10;
+let code2 = 200 / 4 - 10;
 console.log(code2);
 
 // step 4
-let code3 = 3 % 2 + 38;
+let code3 = 40 - 7 % 2;
 console.log(code3);
 
 // step 5
